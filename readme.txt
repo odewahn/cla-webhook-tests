@@ -1,6 +1,6 @@
 Hello, Andrew!
 
-This is part 23!!!
+This is part 24!!!
 
 this should send a reminder with the right text
 
